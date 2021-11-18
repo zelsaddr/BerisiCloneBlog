@@ -6,8 +6,8 @@ berisi.id clone website with scrape method
 
 
 # features
-- read posts
-- get recent news
+- read post
+- get recent posts
 - pagination
 - search
 
