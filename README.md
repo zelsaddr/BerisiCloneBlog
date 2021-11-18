@@ -12,7 +12,7 @@ berisi.id clone website with scrape method
 - search
 
 # bug
-- some image can't display
+- some image can't display in read post
 
 # FOR EDUCATIONAL PURPOSES ONLY!
 
