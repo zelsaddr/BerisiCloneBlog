@@ -1,4 +1,8 @@
 <?php
+/**
+    @author Izzeldin Addarda
+    @github github/zelsaddr/BerisiCloneBlog
+*/
 class berisiAPI {
     public $berita = [];
 
