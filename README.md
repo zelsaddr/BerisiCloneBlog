@@ -12,5 +12,5 @@ berisi.id clone website with scrape method
 # bug
 - some image can't display in read post
 
-# FOR EDUCATIONAL PURPOSES ONLY!
+# THIS IS ILLEGAL | FOR EDUCATIONAL PURPOSES ONLY!
 
